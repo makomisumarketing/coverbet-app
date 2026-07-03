@@ -7,7 +7,7 @@ permalink: /support/
 
 If you have questions, feedback, or issues with the app, please contact:
 
-**Email:** makomisumarketing@gmail.com
+**Email:** coverbet@makomisumarketing.com
 
 ---
 
