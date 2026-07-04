@@ -1,18 +1,22 @@
-# CoverBet
+# Coverbet
 
-Support and policy pages for the CoverBet iOS app.
+**Coverbet** sports betting tracker and odds calculator to assist with hedge and arbitrage calculations.
 
----
-
-## Links
-
-- 📄 [Privacy Policy](https://makomisumarketing.github.io/coverbet-app/privacy/)
-- 🛠️ [Support](https://makomisumarketing.github.io/coverbet-app/support/)
+Published by **[Mako Misu Marketing](https://www.makomisumarketing.com)**.
 
 ---
 
-## About
+## Learn More
 
-CoverBet is a calculator designed to help users evaluate potential cover bets on parlay tickets.
+- [About Coverbet](https://www.makomisumarketing.com/apps/coverbet)
+- [Support](https://www.makomisumarketing.com/apps/coverbet/coverbet-support)
+- [Privacy Policy](https://www.makomisumarketing.com/apps/coverbet/coverbet-privacy)
+- [Terms & Conditions](https://www.makomisumarketing.com/apps/coverbet/coverbet-tc)
 
-It provides estimated outcomes based on user-entered odds and does not guarantee results.
+---
+
+## Contact
+
+Questions or feedback? Email us at [coverbet@makomisumarketing.com](mailto:coverbet@makomisumarketing.com).
+
+[← Back to Mako Misu Marketing](https://www.makomisumarketing.com)
