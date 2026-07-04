@@ -1,39 +1,23 @@
 ---
-title: Support
-permalink: /support/
+permalink: /support
 ---
 
-# Support — CoverBet
+# Support
 
-If you have questions, feedback, or issues with the app, please contact:
+For collaborations, app support, service inquiries, or general questions, contact us at:
 
-**Email:** coverbet@makomisumarketing.com
+**[coverbet@makomisumarketing.com](mailto:coverbet@makomisumarketing.com)**
 
----
-
-## Response Time
-
-We review all messages and aim to respond as soon as possible.
+We aim to respond within **3 business days**.
 
 ---
 
-## Feedback
+## More Information
 
-You can also leave feedback through the App Store review section.  
-Your input helps improve future updates.
+Visit the [Coverbet website](https://www.makomisumarketing.com/apps/coverbet) for app details, privacy policy, and terms & conditions.
 
----
+- [About Coverbet](https://www.makomisumarketing.com/apps/coverbet)
+- [Privacy Policy](https://www.makomisumarketing.com/apps/coverbet/coverbet-privacy)
+- [Terms & Conditions](https://www.makomisumarketing.com/apps/coverbet/coverbet-tc)
 
-## Scope
-
-This support page covers questions related to the CoverBet app, including:
-
-- App functionality  
-- Bug reports  
-- General usage questions  
-
----
-
-## Note
-
-CoverBet is a calculation tool. It does not provide betting advice or guarantees of outcomes.
+[← Back to Mako Misu Marketing](https://www.makomisumarketing.com)
